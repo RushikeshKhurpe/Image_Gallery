@@ -1,4 +1,4 @@
-# MERN Stack | Login, Register and CRUD app
+# MERN Stack | Login, Register and Image Upload app
 A user registration, login and Image Upload action with backend restAPI using mongoDB, Nodejs(Express.js) and mongoose, authentication using JWT token also pagination and frontend using react.js and material-ui api calling with axios.
 
 ### This Project demonstrates the following
